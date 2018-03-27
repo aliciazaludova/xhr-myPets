@@ -1,0 +1,41 @@
+{
+    "myPets":
+    [
+        { 
+            "name": "Cottonball",
+            "type": "Dog",
+            "color": "White, orange, black",
+            "breed": "Peekapoo"
+        },
+        { 
+            "name": "Silver",
+            "type": "Fish",
+            "color": "Silver",
+            "breed": "Goldfish"
+        },
+        { 
+            "name": "McGee",
+            "type": "Cat",
+            "color": "Orange and white",
+            "breed": "Tabby"
+        },
+        { 
+            "name": "Beatrice-Anne (Beane)",
+            "type": "Cat",
+            "color": "Black and white",
+            "breed": "Persian"
+        },
+        { 
+            "name": "Nutty",
+            "type": "Cat",
+            "color": "Orange",
+            "breed": "Tabby"
+        },
+        { 
+            "name": "Frootie",
+            "type": "Cat",
+            "color": "White, orange, black",
+            "breed": "Persian"
+        }
+    ]
+}
